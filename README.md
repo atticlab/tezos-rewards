@@ -1,4 +1,4 @@
-###TEZOS REWARDS PAYMENT SCRIPT
+### TEZOS REWARDS PAYMENT SCRIPT
 
 Simple bash script for rewards payments
 
