@@ -1,6 +1,6 @@
 ### TEZOS REWARDS PAYMENT SCRIPT
 
-Simple bash script for rewards payments
+Simple bash script for reward payments
 
 Work with simple text file as input:
 
